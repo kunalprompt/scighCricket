@@ -1,0 +1,28 @@
+body{
+	clear: both;
+    margin: 0;
+    height: 100%;
+}
+
+#myCarousel{
+	position: relative;
+}
+/*.pattern{
+	opacity: 0.9;
+	background: url('../images/pattern.png') repeat;
+}*/
+.container .carousel-caption{
+	color: #fff;
+}
+
+.container .carousel-caption p{font-weight: bold;}
+.opacity_8{opacity: 0.8;}
+.fontem_1_5{font-size: 1.5em;}
+.fontem_2{font-size: 1.7em;}
+.social_icon{}
+.social_icon:hover{overflow: hidden;}
+.font900{font-weight: 900;}
+.fontBold{font-weight: bold;}
+
+.navbar-brand{text-shadow: #a72219 0.1em 0.1em 0.2em;color: #fff; }
+.navbar-brand:hover {text-shadow: #1d4d8b 0.1em 0.1em 0.2em;color: #fff;}
